@@ -14,7 +14,9 @@
 
 ---
 
-> ⚙️ **Scaffold note (for me):** this folder is the polished public-facing README for the existing **`SigmaCam`** GitHub repo (where the implementation lives). The bracketed `ADD_…` placeholders below should be filled with the final IEEE Xplore URL/DOI and the paper's abstract & headline numbers before publishing. I deliberately did **not** invent the link, abstract text, or quantitative results.
+## 👉 Full implementation & paper code: **[github.com/Nikkat-Afrin/SigmaCam](https://github.com/Nikkat-Afrin/SigmaCam)**
+
+This page is a short, portfolio-facing overview. The **complete implementation, interactive Google Colab examples, datasets, and the paper materials** live in the main repository above. *(Replace `ADD_IEEE_XPLORE_LINK_HERE` with the IEEE Xplore URL once available.)*
 
 ## 🔬 Overview
 **SigmaCam** is a method for **extracting the *exact* decision boundary of deep neural networks** — a contribution to neural-network **interpretability and verification**. Where most explainability tools approximate or sample where a model changes its prediction, SigmaCam targets the boundary precisely, enabling more faithful analysis of how a trained network separates classes.
